@@ -5,9 +5,6 @@ import org.apache.ibatis.annotations.*;
 import org.springframework.beans.factory.annotation.Required;
 import org.springframework.stereotype.Repository;
 
-/**
- * Created by nowcoder on 2016/7/2.
- */
 @Repository
 @Mapper
 public interface UserDAO {
